@@ -193,3 +193,4 @@ Le parcours navigateur a été exercé avec des coordonnées fictives : filtres 
 Dans l’environnement Windows de création, les sous-processus avec pipes sont refusés (`EPERM`). Le rendu a été compilé avec Vite/Rollup via une adaptation de validation locale, transformant JSX avec Babel et désactivant la minification. Les scripts livrés restent les scripts Vite usuels. La compilation standard `npm run build` doit donc être exécutée sur l’hébergeur ou une machine sans cette restriction ; aucun test Stripe distant n’a été effectué sans vos clés.
 
 Voir `ASSETS.md` pour les sources photographiques. Les références produits, compositions, tarifs, accords de distribution, mentions légales, fiscalité et conditions de retour restent à renseigner avec vos informations réelles avant la vente.
+
